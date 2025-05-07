@@ -1,0 +1,29 @@
+0	Background/water
+1	High-Medium Density Urban
+2	Low-Medium Density Urban
+3	Herbaceous Agriculture - Cultivated Lands
+4	Active Sun Coffee and Mixed Woody Agriculture
+5	Pasture, Hay or Inactive Agriculture (e.g. abandoned sugar cane)
+6	Pasture, Hay or other Grassy Areas (e.g. soccer fields)
+7	Drought Deciduous Open Woodland
+8	Drought Deciduous Dense Woodland
+9	Deciduous, Evergreen Coastal and Mixed Forest or Shrubland with Succulents
+10	Semi-Deciduous and Drought Deciduous Forest on Alluvium and Non-Carbonate Substrates
+11	Semi-Deciduous and Drought Deciduous Forest on Karst (includes semi-evergreen forest)
+12	Drought Deciduous, Semi-deciduous and Seasonal Evergreen Forest on Serpentine
+13	Seasonal Evergreen and Semi-Deciduous Forest on Karst
+14	Seasonal Evergreen and Evergreen Forest
+15	Seasonal Evergreen Forest with Coconut Palm
+16	Evergreen and Seasonal Evergreen Forest on Karst
+17	Evergreen Forest on Serpentine
+18	Elfin, Sierra Palm, Transitional and Tall Cloud Forest
+19	Emergent Wetlands Including Seasonally Flooded Pasture
+20	Salt or Mud Flats
+21	Mangrove
+22	Seaonally Flooded Savannahs and Woodlands
+23	Pterocarpus Swamp
+24	Tidally Flooded Evergreen Dwarf-Shrubland and Forb Vegetation
+25	Quarries
+26	Coastal Sand and Rock
+27	Bare Soil (including bulldozed land)
+28	Water - Permanent

@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Kennaway, T., and Helmer, E.H. 2007. The Forest Types and Ages Cleared for Land Development in Puerto Rico. GIScience and Remote Sensing 44(4):356-382.</origin>
+				<pubdate>2007</pubdate>
+				<title Sync="TRUE">IITF_GISciRS44_puertorico_landcov2000_cloudfor2class.tif</title>
+				<edition>1</edition>
+				<geoform>raster digital data</geoform>
+				<serinfo></serinfo>
+				<onlink Sync="TRUE">\\PCIBKQKVAX0\P\Caribbean_Land_Cover_Series_new_names\puerto_rico\PuertoRico_Landcover_TIFF_Bin\IITF_GISciRS44_puertorico_landcov2000_cloudfor2class.tif</onlink>
+				<ftname Sync="TRUE">IITF_GISciRS44_puertorico_landcov2000_cloudfor2class.tif</ftname>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>Distributions of land cover and forest formations for Puerto Rico, Vieques and Culebra were mapped from previously published Landsat satellite image mosaics dated 1991 and 2000.   This file is the map of land cover and forest formations for about the year 2000 for Puerto Rico, Vieques and Culebra, but it differentiates cloud forest into two classes using data from Helmer et al., 2002, Caribbean J. Science 38(3-4):165-183.  
+ 
+Important notes:
+1. Open drought deciduous woodlands, with 25 to 60% woody vegetation cover, are grouped with pasture in the version of this map that is generalized to land cover.
+2. Low density urban lands are included with the Urban class and may have as little as 10-15% urban/built-up lands.
+3. Errors from minor misregristration between the maps from 1991-2000 will cause some error in analyses of change.
+4. We recommend using urban change data from Helmer and Ruefenacht (2005) to estimate urban change from 1991-2000. 
+ 
+On the Caribbean island of Puerto Rico, forest, urban/built-up and pasture lands have replaced most formerly cultivated lands.  The extent and age distribution of each forest type that undergoes land development, however, is unknown.  This study assembles a time series of four land-cover maps for Puerto Rico.  The time series includes two digitized paper maps of land cover in 1951 and 1978 that are based on photo interpretation.  The other two maps are of forest type and land cover and are based on decision tree classification of Landsat image mosaics dated 1991 and 2000.  With the map time series we quantify land-cover changes from 1951 to 2000; map forest age classes in 1991 and 2000; and quantify the forest that undergoes land development (urban development or surface mining) from 1991 to 2000 by forest type and age.  This step relies on intersecting a map of land development from 1991-2000 (from the same satellite imagery) with the forest age and type maps.  Land-cover changes from 1991-2000 that continue prior trends include urban expansion and transition of sugar cane, pineapple and other lowland agriculture to pasture.  Forest recovery continues, but it has slowed. Emergent and forested wetland area increased between 1977 and 2000.  Sun coffee cultivation appears to have increased slightly.  Most of the forests cleared for land development, 55 percent, were young (1-13 yr).  Only 13 percent of the developed forest was older (41-55+ yr).   However, older forest on rugged karst lands that long ago reforested is vulnerable to land development if it is close to an urban center and unprotected.  
+ 
+Data users should cite the manuscript below, including on any figures, web displays or Internet Map Servers: 
+Kennaway, T., and Helmer, E.H. 2007. The Forest Types and Ages Cleared for Land Development in Puerto Rico. GIScience and Remote Sensing 44(4):356-382.</abstract>
+			<supplinf>The International Institute of Tropical Forestry provided funding for this work.  Other contributors included the Center for Environmental Management of Military Lands (CEMML) of Colorado State University. </supplinf>
+			<langdata Sync="TRUE">en</langdata>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate><caldate>2000</caldate></sngdate></timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-67.330044</westbc>
+				<eastbc Sync="TRUE">-64.989305</eastbc>
+				<northbc Sync="TRUE">18.561209</northbc>
+				<southbc Sync="TRUE">17.862972</southbc>
+			</bounding>
+			<lboundng>
+				<leftbc Sync="TRUE">57736.000000</leftbc>
+				<rightbc Sync="TRUE">304846.000000</rightbc>
+				<topbc Sync="TRUE">80559.000000</topbc>
+				<bottombc Sync="TRUE">3879.000000</bottombc>
+			</lboundng>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekey>land cover</themekey>
+				<themekey>land use</themekey>
+				<themekey>forest formation</themekey>
+				<themekey>forest type</themekey>
+				<themekey>forest conservation</themekey>
+				<themekey>karst</themekey>
+				<themekey>forest age</themekey>
+				<themekey>mangroves</themekey>
+				<themekey>cloud forest</themekey>
+				<themekey>serpentine</themekey>
+			</theme>
+			<place>
+				<placekey>Puerto Rico</placekey>
+				<placekey>Vieques</placekey>
+				<placekey>Culebra</placekey>
+				<placekey>Icacos</placekey>
+				<placekey>Caribbean</placekey>
+				<placekey>Greater Antilles</placekey>
+			</place>
+			<temporal>
+				<tempkey>2000</tempkey></temporal>
+		</keywords>
+		<accconst>No access constraints after peer review is completed. Contact E. Helmer for updates on the peer review process.</accconst>
+		<useconst>Important notes:
+1. Open drought deciduous woodlands, with 25 to 60% woody vegetation cover, are grouped with pasture in the version of this map that is generalized to land cover.
+2. Low density urban lands are included with the Urban class and may have as little as 10-15% urban/built-up lands.
+3. Errors from minor misregristration between the maps from 1991-2000 will cause some error in analyses of change.
+4. We recommend using urban change data from Helmer and Ruefenacht (2005) to estimate urban change from 1991-2000. </useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>E. H. Helmer</cntper>
+					<cntorg>International Institute of Tropical Forestry, USDA Forest Service</cntorg>
+				</cntperp>
+				<cntvoice>1-970-498-2644</cntvoice>
+				<cntfax>1-970-498-1212</cntfax>
+				<cntemail>ehelmer@fs.fed.us</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<browse>
+			<browsen>prviecu2000_landcov_fortype_cldf2class_browse.gif</browsen>
+			<browset>GIF</browset>
+		</browse>
+		<datacred>Data users should cite the data, including on any maps, web displays or Internet Map Servers that use the data, by referencing the following manuscript (which also cites sources for original data from 1951 and 1977):  Kennaway, T., and Helmer, E.H. 2007. The Forest Types and Ages Cleared for Land Development in Puerto Rico. GIScience and Remote Sensing 44(4):356-382.</datacred>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.6.1500</native>
+		<crossref>
+			<citeinfo>
+				<pubdate>Summer, 2007</pubdate>
+				<title>Kennaway, T., and Helmer, E.H. 2007. Quantifying the Forest Types and Ages Cleared for Land Development in Puerto Rico. Manuscript in Review.</title>
+				<edition>1</edition>
+			</citeinfo>
+		</crossref>
+		<natvform Sync="TRUE">Raster Dataset</natvform>
+	</idinfo>
+	<dataqual>
+		<lineage>
+			<procstep>
+				<procdesc Sync="TRUE">Metadata imported.</procdesc>
+				<srcused Sync="TRUE">C:\DOCUME~1\ehelmer\LOCALS~1\Temp\xml8D.tmp</srcused>
+				<date Sync="TRUE">20070420</date>
+				<time Sync="TRUE">12043800</time>
+			</procstep>
+			<procstep>
+				<procdesc Sync="TRUE">Metadata imported.</procdesc>
+				<srcused Sync="TRUE">C:\DOCUME~1\ehelmer\LOCALS~1\Temp\xml9B.tmp</srcused>
+				<date Sync="TRUE">20070420</date>
+				<time Sync="TRUE">16420200</time>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\DOCUME~1\ehelmer\LOCALS~1\Temp\xml24.tmp</srcused><date Sync="TRUE">20070529</date><time Sync="TRUE">13032100</time></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">F:\pr\pr1991_2000_final_products\Landcover_foresttype\prviecu2000_landcov_fortype.img.xml</srcused><date Sync="TRUE">20070529</date><time Sync="TRUE">13144000</time></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">P:\Caribbean_Land_Cover_Series_new_names\puerto_rico_landcover\landcover_data\IITF_GISciRS44_puertorico_landcov2000_cloudfor2class.img.xml</srcused><date Sync="TRUE">20081228</date><time Sync="TRUE">16354500</time></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Raster</direct>
+		<rastinfo>
+			<rasttype Sync="TRUE">Pixel</rasttype>
+			<rowcount Sync="TRUE">2556</rowcount>
+			<colcount Sync="TRUE">8237</colcount>
+			<vrtcount Sync="TRUE">1</vrtcount>
+			<rastband Sync="TRUE">1</rastband>
+			<rastbpp Sync="TRUE">8</rastbpp>
+			<rastcmap Sync="TRUE">TRUE</rastcmap>
+			<rastcomp Sync="TRUE">None</rastcomp>
+			<rastdtyp Sync="TRUE">pixel codes</rastdtyp>
+			<rastnodt>0</rastnodt>
+			<rastorig Sync="TRUE">Upper Left</rastorig>
+			<rastplyr Sync="TRUE">FALSE</rastplyr>
+			<rastxsz Sync="TRUE">30.000000</rastxsz>
+			<rastxu>m</rastxu>
+			<rastysz Sync="TRUE">30.000000</rastysz>
+			<rastyu>m</rastyu>
+		</rastinfo>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">row and column</plance>
+					<coordrep>
+						<absres Sync="TRUE">30.000000</absres>
+						<ordres Sync="TRUE">30.000000</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">meters</plandu>
+				</planci>
+				<mapproj><mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn><lambertc><stdparll Sync="TRUE">18.033333</stdparll><stdparll Sync="TRUE">18.433333</stdparll><longcm Sync="TRUE">-66.433333</longcm><latprjo Sync="TRUE">17.833333</latprjo><feast Sync="TRUE">152400.304801</feast><fnorth Sync="TRUE">0.000000</fnorth></lambertc></mapproj></planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1927</horizdn>
+				<ellips Sync="TRUE">Clarke 1866</ellips>
+				<semiaxis Sync="TRUE">6378206.400000</semiaxis>
+				<denflat Sync="TRUE">294.978698</denflat>
+			</geodetic>
+			<cordsysn>
+				<geogcsn Sync="TRUE">GCS_North_American_1927</geogcsn>
+				<projcsn Sync="TRUE">Lambert Conformal Conic</projcsn>
+			</cordsysn>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="Layer_1">
+			<enttyp>
+				<enttypl Sync="TRUE">Layer_1</enttypl>
+				<enttypc Sync="TRUE">30</enttypc>
+				<enttypt Sync="TRUE">Table</enttypt>
+			</enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">ObjectID</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attalias Sync="TRUE">ObjectID</attalias>
+				<attrtype Sync="TRUE">OID</attrtype>
+				<attscale Sync="TRUE">0</attscale>
+				<attwidth Sync="TRUE">4</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Value</attrlabl>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attalias Sync="TRUE">Value</attalias>
+				<attrtype Sync="TRUE">Integer</attrtype>
+				<attscale Sync="TRUE">0</attscale>
+				<attwidth Sync="TRUE">0</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Count</attrlabl>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attalias Sync="TRUE">Count</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attscale Sync="TRUE">0</attscale>
+				<attwidth Sync="TRUE">0</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Class_names</attrlabl>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attalias Sync="TRUE">Class_names</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attscale Sync="TRUE">0</attscale>
+				<attwidth Sync="TRUE">86</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Area</attrlabl>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attalias Sync="TRUE">Area</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attscale Sync="TRUE">0</attscale>
+				<attwidth Sync="TRUE">0</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Red</attrlabl>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attalias Sync="TRUE">Red</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attscale Sync="TRUE">0</attscale>
+				<attwidth Sync="TRUE">0</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Green</attrlabl>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attalias Sync="TRUE">Green</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attscale Sync="TRUE">0</attscale>
+				<attwidth Sync="TRUE">0</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Blue</attrlabl>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attalias Sync="TRUE">Blue</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attscale Sync="TRUE">0</attscale>
+				<attwidth Sync="TRUE">0</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Opacity</attrlabl>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attalias Sync="TRUE">Opacity</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attscale Sync="TRUE">0</attscale>
+				<attwidth Sync="TRUE">0</attwidth>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<resdesc Sync="TRUE">Downloadable Data</resdesc>
+		<distliab>Under no circumstances shall the USDA Forest Service, the International Institute of Tropical Forestry or Colorado State University be liable for direct, indirect, special, incidental, or consequential damages resulting from the use, misuse, or inability to use this software, even if IITF or CSU have been advised of the possibility of such damages.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize Sync="TRUE">0.000</transize>
+					<dssize Sync="TRUE">0.000</dssize>
+				</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20090630</metd>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>E. H. Helmer</cntper>
+					<cntorg>International Institute of Tropical Forestry, USDA Forest Service, 1201 Calle Ceiba, Jardín Botànic Sur, Río Piedras, Puerto Rico, 00926, USA</cntorg>
+				</cntperp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>240 W Prospect Rd</address>
+					<city>Fort Collins</city>
+					<state>Colorado</state>
+					<postal>85026</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>1-970-498-2644</cntvoice>
+				<cntfax>1-970-498-1212</cntfax>
+				<cntemail>ehelmer [at] fs.fed.us</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<langmeta Sync="TRUE">en</langmeta>
+		<metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<dataIdInfo>
+		<envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.6.1500</envirDesc>
+		<dataLang>
+			<languageCode Sync="TRUE" value="en"></languageCode>
+		</dataLang>
+		<geoBox esriExtentType="decdegrees">
+			<westBL Sync="TRUE">-67.330044</westBL>
+			<northBL Sync="TRUE">18.561209</northBL>
+			<southBL Sync="TRUE">17.862972</southBL>
+			<eastBL Sync="TRUE">-64.989305</eastBL>
+			<exTypeCode Sync="TRUE">1</exTypeCode>
+		</geoBox>
+		<idCitation>
+			<resTitle Sync="TRUE">IITF_GISciRS44_puertorico_landcov2000_cloudfor2class.tif</resTitle>
+			<presForm>
+				<PresFormCd Sync="TRUE" value="005"></PresFormCd>
+			</presForm>
+		</idCitation>
+		<spatRpType>
+			<SpatRepTypCd Sync="TRUE" value="002"></SpatRepTypCd>
+		</spatRpType>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox esriExtentType="native">
+					<westBL Sync="TRUE">57736</westBL>
+					<northBL Sync="TRUE">80559</northBL>
+					<southBL Sync="TRUE">3879</southBL>
+					<eastBL Sync="TRUE">304846</eastBL>
+					<exTypeCode Sync="TRUE">1</exTypeCode>
+				</GeoBndBox>
+			</geoEle>
+		</dataExt>
+	</dataIdInfo>
+	<distInfo>
+		<distributor>
+			<distorTran>
+				<onLineSrc>
+					<orDesc Sync="TRUE">002</orDesc>
+					<protocol Sync="TRUE">Local Area Network</protocol>
+					<linkage Sync="TRUE">file://\\PCIBKQKVAX0\P\Caribbean_Land_Cover_Series_new_names\puerto_rico\PuertoRico_Landcover_TIFF_Bin\IITF_GISciRS44_puertorico_landcov2000_cloudfor2class.tif</linkage>
+				</onLineSrc>
+				<transSize Sync="TRUE">0.000</transSize>
+			</distorTran>
+			<distorFormat>
+				<formatName Sync="TRUE">Raster Dataset</formatName>
+			</distorFormat>
+		</distributor>
+	</distInfo>
+	<Esri>
+		<ModDate>20090630</ModDate>
+		<ModTime>13570000</ModTime>
+		<SyncDate>20090630</SyncDate>
+		<SyncOnce>FALSE</SyncOnce>
+		<SyncTime>13565000</SyncTime>
+		<CreaDate>20081228</CreaDate>
+		<CreaTime>16354500</CreaTime>
+		<MetaID>{B3B05C14-A20A-42F0-B5E9-1201C64B0CA1}</MetaID></Esri>
+	<mdChar>
+		<CharSetCd Sync="TRUE" value="004"></CharSetCd>
+	</mdChar>
+	<mdDateSt Sync="TRUE">20090630</mdDateSt>
+	<mdHrLv>
+		<ScopeCd Sync="TRUE" value="005"></ScopeCd>
+	</mdHrLv>
+	<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+	<mdLang>
+		<languageCode Sync="TRUE" value="en"></languageCode>
+	</mdLang>
+	<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+	<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+	<refSysInfo>
+		<RefSystem>
+			<refSysID>
+				<identCode Sync="TRUE">Lambert Conformal Conic</identCode>
+			</refSysID>
+		</RefSystem>
+	</refSysInfo>
+	<spatRepInfo>
+		<GridSpatRep>
+			<numDims Sync="TRUE">2</numDims>
+			<tranParaAv Sync="TRUE">1</tranParaAv>
+			<cellGeo>
+				<CellGeoCd Sync="TRUE" value="002"></CellGeoCd>
+			</cellGeo>
+			<axDimProps><Dimen><dimName><DimNameTypCd Sync="TRUE" value="002"></DimNameTypCd></dimName><dimSize Sync="TRUE">8237</dimSize><dimResol><value Sync="TRUE">30</value><uom><UomLength><uomName Sync="TRUE">Meter</uomName><conversionToISOstandardUnit Sync="TRUE">1 Meter = 1 Meter(s)</conversionToISOstandardUnit></UomLength></uom></dimResol></Dimen><Dimen><dimName><DimNameTypCd Sync="TRUE" value="001"></DimNameTypCd></dimName><dimSize Sync="TRUE">2556</dimSize><dimResol><value Sync="TRUE">30</value><uom><UomLength><uomName Sync="TRUE">Meter</uomName><conversionToISOstandardUnit Sync="TRUE">1 Meter = 1 Meter(s)</conversionToISOstandardUnit></UomLength></uom></dimResol></Dimen></axDimProps></GridSpatRep>
+	</spatRepInfo>
+</metadata>

@@ -1,0 +1,37 @@
+BANDS:      1
+ROWS:    2556
+COLS:    8237
+INTERLEAVING:    NA
+DATATYPE: U8   
+BYTE_ORDER: NA      
+UL_X_COORDINATE:          57751.000000
+UL_Y_COORDINATE:          80544.000000
+LR_X_COORDINATE:         304831.000000
+LR_Y_COORDINATE:           3894.000000
+PIXEL_WIDTH:             30.0000000
+PIXEL_HEIGHT:             30.0000000
+MAP_UNITS:    meters               
+PROJECTION_NAME: Lambert Conformal Conic                 
+PROJECTION_ZONE:     0
+PROJECTION_PARAMETERS:
+	             1.000000
+	             0.000000
+	             0.314741
+	             0.321722
+	            -1.159480
+	             0.311250
+	        152400.304801
+	             0.000000
+	             0.000000
+	92489023340332933000000000.000000
+	             0.000000
+	             0.000000
+	             0.000000
+	             0.000000
+	             0.000000
+SPHEROID_NAME: Clarke 1866                             
+DATUM_NAME:    NAD27                                   
+SEMI_MAJOR_AXIS:        6378206.400000
+SEMI_MINOR_AXIS:        6356583.800000
+E_SQUARED:                    0.006769
+RADIUS:                 6370997.240633
